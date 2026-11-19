@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ds-web",
+    "description": "A DeepSeek-web-style sidebar panel for DeepSeek Harness: official wordmark and grouped chat library, streaming API chat with thinking effort, web search, file parsing and OCR, and DeepSeek export import. Data stays on this machine."
+  }
+}

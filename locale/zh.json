@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ds-web",
+    "description": "按 DeepSeek 网页版复刻的 DSH 左侧栏对话面板：官方字标与分组会话列表、流式 API 对话、深度思考（可调强度）、联网搜索、文件解析和 OCR，并可导入 DeepSeek 官方导出继续聊。数据保存在本机。"
+  }
+}

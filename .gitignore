@@ -1,0 +1,11 @@
+# Local plugin data — never commit
+settings.json
+conversations/
+profile.json
+index.json
+*.log
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
