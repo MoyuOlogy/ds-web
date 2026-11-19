@@ -27,10 +27,10 @@ Add this bundle from DSH's **Plugins** page with the spec:
 github:MoyuOlogy/ds-web
 ```
 
-Or from a terminal:
+For a CLI-managed profile (not the Electron-managed `desktop` profile):
 
 ```powershell
-dsh plugin --profile desktop add github:MoyuOlogy/ds-web
+dsh plugin --profile <profile> add github:MoyuOlogy/ds-web
 ```
 
 Then refresh the DSH window. A new **ds-web** entry appears in the left sidebar.
@@ -38,7 +38,7 @@ Then refresh the DSH window. A new **ds-web** entry appears in the left sidebar.
 ### Local development
 
 ```powershell
-dsh plugin --profile desktop add link:D:\path\to\ds-web
+dsh plugin --profile <profile> add link:D:\path\to\ds-web
 ```
 
 There is no build step: `index.js` is the Host half and `client.js` is the browser bundle.
